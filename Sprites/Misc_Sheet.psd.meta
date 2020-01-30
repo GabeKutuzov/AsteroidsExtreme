@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 8a6ffeeab8f15c84a8c86901f8f159e7
+timeCreated: 1469139795
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: QuestionBox
+    21300002: SecretBox
+    21300004: UFO
+    21300006: Heart
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SecretBox
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 456
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 19.5}
+    - name: UFO
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 461
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -28, y: 7}
+        - {x: -28, y: -14}
+        - {x: -22, y: -16}
+        - {x: 28, y: -16}
+        - {x: 28, y: 5}
+        - {x: 22, y: 16}
+    - name: Heart
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 399
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 24.5}
+        - {x: -26.5, y: 20.5}
+        - {x: -26.5, y: -2.5}
+        - {x: -6.5, y: -24.5}
+        - {x: 7.5, y: -24.5}
+        - {x: 26.5, y: -2.5}
+        - {x: 26.5, y: 18.5}
+        - {x: 21.5, y: 24.5}
+      - - {x: -18.5, y: 11.5}
+        - {x: 2.5, y: 6.5}
+        - {x: 14.5, y: 16.5}
+        - {x: 12.5, y: -1.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
